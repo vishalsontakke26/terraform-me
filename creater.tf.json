@@ -1,0 +1,15 @@
+resource "aws_iam_user" "myname"{
+    name = "terraform-iam-user2"
+}
+
+resource "aws_iam_user" "myname"{
+    name = "terraform-iam-user3"
+}
+
+resource "aws_iam_user" "myname"{
+    name = "terraform-iam-user4"
+}
+
+resource "aws_iam_user" "myname"{
+    name = "terraform-iam-user5"
+}
